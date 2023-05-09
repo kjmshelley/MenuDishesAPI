@@ -1,0 +1,22 @@
+{
+  "name": "menudishesapi",
+  "version": "1.0.0",
+  "description": "For Springboard Students OOH",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kjmshelley/MenuDishesAPI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kjmshelley/MenuDishesAPI/issues"
+  },
+  "homepage": "https://github.com/kjmshelley/MenuDishesAPI#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
